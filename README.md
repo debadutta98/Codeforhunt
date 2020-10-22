@@ -1,5 +1,5 @@
 # Codeforhunt
-```This is the coding problems solve by me ```
+```These are the coding problems solve by me ```
 <table>
   <tr>
   <th>SL No</th>
