@@ -1,8 +1,8 @@
 # Codeforhunt
 ```These are the coding problems solve by me ```
-<table>
+<table style="width:"500"height="500">
   <tr>
-  <th>SL No</th>
+  <ths>SL No</th>
   <th>Title</th>
   <th>Difficulty</th>
   <th>Tag</th>
