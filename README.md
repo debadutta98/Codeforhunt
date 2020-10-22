@@ -1,6 +1,5 @@
-# Codeforhunt
-```These are the coding problems solve by me ```
-| SLNO |                 Title                 | Difficulty |       Tag      |     Solution        |
-|------|---------------------------------------|------------|----------------|---------------------|
-| 1    |[Inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Medium|BST|[Solution](https://github.com/debadutta98/Codeforhunt/blob/main/LeetCode.java)|
-| 2  |[Find Maximum Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Medium|BST|[Solution](https://github.com/debadutta98/Codeforhunt/blob/main/MaxDepth.java)|
+# Leetcode
+
+| # | Title | Solution | Runtime |
+|---| ----- | -------- | ------- |
+|230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.java)|7 ms|
