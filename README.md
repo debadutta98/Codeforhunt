@@ -33,6 +33,7 @@
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|17 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Java](./solutions/1572.%20Matrix%20Diagonal%20Sum.java)|2 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|105 ms|
+|1876|[ Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[Java](./solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.java)|25 ms|
 |1877|[ Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Java](./solutions/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.java)|69 ms|
 |1979|[ Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)|[Java](./solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.java)|0 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Java](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.java)|8 ms|
