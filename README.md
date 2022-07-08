@@ -33,6 +33,7 @@
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|11 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|14 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|1578 ms|
+|1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Java](./solutions/1323.%20Maximum%2069%20Number.java)|2 ms|
 |1343|[ Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Java](./solutions/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.java)|856 ms|
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|17 ms|
 |1493|[ Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Java](./solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.java)|6 ms|
