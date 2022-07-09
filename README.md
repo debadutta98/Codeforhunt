@@ -39,6 +39,7 @@
 |1493|[ Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Java](./solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.java)|6 ms|
 |1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Java](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.java)|41 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Java](./solutions/1572.%20Matrix%20Diagonal%20Sum.java)|2 ms|
+|1605|[ Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[Java](./solutions/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.java)|10 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)|73 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|105 ms|
 |1876|[ Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[Java](./solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.java)|25 ms|
