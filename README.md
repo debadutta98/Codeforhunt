@@ -32,6 +32,7 @@
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./solutions/704.%20Binary%20Search.java)|0 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|11 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|14 ms|
+|921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|2 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|1578 ms|
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Java](./solutions/1323.%20Maximum%2069%20Number.java)|2 ms|
 |1343|[ Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Java](./solutions/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.java)|856 ms|
