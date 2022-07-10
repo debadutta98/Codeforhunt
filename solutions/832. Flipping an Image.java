@@ -7,7 +7,7 @@ class Solution {
     }
     public int[][] flipAndInvertImage(int[][] image) {
         for(int i=0;i<image.length;i++)
-        {
+        {
             int k=0,j=(image.length-1);
             while(k<=j)
             {
@@ -23,7 +23,7 @@ class Solution {
                 k++;
                 j--;
             }
-        }
+        }
         return image;
     }
 }
