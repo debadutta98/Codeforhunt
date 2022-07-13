@@ -18,6 +18,7 @@
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./solutions/27.%20Remove%20Element.java)|1 ms|
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./solutions/28.%20Implement%20strStr().java)|0 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./solutions/58.%20Length%20of%20Last%20Word.java)|1 ms|
+|61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./solutions/61.%20Rotate%20List.java)|344 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Java](./solutions/66.%20Plus%20One.java)|8 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./solutions/69.%20Sqrt(x).java)|1 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./solutions/75.%20Sort%20Colors.java)|1 ms|
