@@ -45,6 +45,7 @@
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|2 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|1578 ms|
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Java](./solutions/1323.%20Maximum%2069%20Number.java)|2 ms|
+|1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)|309 ms|
 |1343|[ Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|[Java](./solutions/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.java)|856 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)|6 ms|
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|17 ms|
