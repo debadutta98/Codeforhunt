@@ -43,6 +43,7 @@
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./solutions/832.%20Flipping%20an%20Image.java)|1 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|14 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|2 ms|
+|973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|89 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|1578 ms|
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Java](./solutions/1323.%20Maximum%2069%20Number.java)|2 ms|
 |1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)|309 ms|
