@@ -53,6 +53,7 @@
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|17 ms|
 |1488|[ Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)|[Java](./solutions/1488.%20Avoid%20Flood%20in%20The%20City.java)|118 ms|
 |1493|[ Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Java](./solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.java)|6 ms|
+|1529|[ Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Java](./solutions/1529.%20Minimum%20Suffix%20Flips.java)|17 ms|
 |1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Java](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.java)|41 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Java](./solutions/1572.%20Matrix%20Diagonal%20Sum.java)|2 ms|
 |1605|[ Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[Java](./solutions/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.java)|10 ms|
