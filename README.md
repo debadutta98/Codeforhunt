@@ -42,6 +42,7 @@
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./solutions/704.%20Binary%20Search.java)|0 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|11 ms|
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./solutions/832.%20Flipping%20an%20Image.java)|1 ms|
+|861|[ Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](./solutions/861.%20Score%20After%20Flipping%20Matrix.java)|4 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|14 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|2 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|89 ms|
