@@ -38,13 +38,12 @@ class Solution {
             }
         }
         for(int i:arr)
-        {
-            grid[0][i]^=1;
-            for(int j=1;j<grid.length;j++)
+        {
+            for(int j=0;j<grid.length;j++)
             {
                 grid[j][i]^=1;
             }   
-        }
+        }
         int sum=0;
         for(int i=0;i<grid.length;i++)
         {
