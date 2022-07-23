@@ -58,6 +58,7 @@
 |1433|[ Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Java](./solutions/1433.%20Check%20If%20a%20String%20Can%20Break%20Another%20String.java)|11 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)|6 ms|
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|17 ms|
+|1475|[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Java](./solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.java)|5 ms|
 |1488|[ Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)|[Java](./solutions/1488.%20Avoid%20Flood%20in%20The%20City.java)|118 ms|
 |1493|[ Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Java](./solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.java)|6 ms|
 |1529|[ Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Java](./solutions/1529.%20Minimum%20Suffix%20Flips.java)|17 ms|
