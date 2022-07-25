@@ -67,6 +67,7 @@
 |1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Java](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.java)|41 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Java](./solutions/1572.%20Matrix%20Diagonal%20Sum.java)|2 ms|
 |1605|[ Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[Java](./solutions/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.java)|10 ms|
+|1663|[ Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Java](./solutions/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.java)|277 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)|73 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|105 ms|
 |1738|[ Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)|[Java](./solutions/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value.java)|925 ms|
