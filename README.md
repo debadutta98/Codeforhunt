@@ -81,6 +81,7 @@
 |1877|[ Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Java](./solutions/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.java)|69 ms|
 |1979|[ Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)|[Java](./solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.java)|0 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Java](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.java)|8 ms|
+|2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Java](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.java)|56 ms|
 |2269|[ Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|[Java](./solutions/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.java)|9 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Java](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.java)|96 ms|
 |2319|[ Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)|[Java](./solutions/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.java)|2 ms|
