@@ -73,6 +73,7 @@
 |1663|[ Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Java](./solutions/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.java)|277 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)|73 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|105 ms|
+|1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Java](./solutions/1720.%20Decode%20XORed%20Array.java)|3 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Java](./solutions/1732.%20Find%20the%20Highest%20Altitude.java)|0 ms|
 |1738|[ Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)|[Java](./solutions/1738.%20Find%20Kth%20Largest%20XOR%20Coordinate%20Value.java)|925 ms|
 |1753|[ Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/)|[Java](./solutions/1753.%20Maximum%20Score%20From%20Removing%20Stones.java)|190 ms|
