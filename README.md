@@ -50,6 +50,7 @@
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Java](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.java)|20 ms|
 |861|[ Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[Java](./solutions/861.%20Score%20After%20Flipping%20Matrix.java)|6 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|14 ms|
+|912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Java](./solutions/912.%20Sort%20an%20Array.java)|82 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|2 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|89 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|1578 ms|
