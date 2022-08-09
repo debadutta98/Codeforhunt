@@ -81,6 +81,7 @@
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Java](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.java)|43 ms|
 |1876|[ Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[Java](./solutions/1876.%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.java)|25 ms|
 |1877|[ Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Java](./solutions/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.java)|69 ms|
+|1962|[ Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[Java](./solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.java)|1086 ms|
 |1979|[ Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)|[Java](./solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.java)|0 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Java](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.java)|8 ms|
 |2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Java](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.java)|56 ms|
