@@ -32,6 +32,7 @@
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.java)|12 ms|
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Java](./solutions/134.%20Gas%20Station.java)|2 ms|
 |143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|[Java](./solutions/143.%20Reorder%20List.java)|4 ms|
+|150|[ Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Java](./solutions/150.%20Evaluate%20Reverse%20Polish%20Notation.java)|10 ms|
 |164|[ Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Java](./solutions/164.%20Maximum%20Gap.java)|640 ms|
 |167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java)|8 ms|
 |173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Java](./solutions/173.%20Binary%20Search%20Tree%20Iterator.java)|14 ms|
