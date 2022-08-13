@@ -45,6 +45,7 @@
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Java](./solutions/451.%20Sort%20Characters%20By%20Frequency.java)|1189 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](./solutions/485.%20Max%20Consecutive%20Ones.java)|2 ms|
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./solutions/692.%20Top%20K%20Frequent%20Words.java)|11 ms|
+|701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java)|0 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./solutions/704.%20Binary%20Search.java)|0 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./solutions/739.%20Daily%20Temperatures.java)|204 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|11 ms|
