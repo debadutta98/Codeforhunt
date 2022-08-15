@@ -101,3 +101,4 @@
 |2279|[ Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[Java](./solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.java)|114 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[Java](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.java)|96 ms|
 |2319|[ Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)|[Java](./solutions/2319.%20Check%20if%20Matrix%20Is%20X-Matrix.java)|2 ms|
+|2358|[ Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)|[Java](./solutions/2358.%20Maximum%20Number%20of%20Groups%20Entering%20a%20Competition.java)|41 ms|
